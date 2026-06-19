@@ -16,6 +16,39 @@ By integrating real-time data synchronisation, automated content processing pipe
 
 ---
 
+# System Demonstration
+
+<h1 align="center">System Interface Preview</h1>
+
+<p align="center">
+  <img src="News_P1.png" width="850">
+</p>
+
+<p align="center">
+  <em>Figure 1. Initial user onboarding and preference acquisition interface.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="News_P2.png" width="850">
+</p>
+
+<p align="center">
+  <em>Figure 2. Category selection framework used for adaptive content filtering.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="News_P3.png" width="850">
+</p>
+
+<p align="center">
+  <em>Figure 3. Personalised news feed generated through user-centric content aggregation.</em>
+</p>
+
+
 # Table of Contents
 
 * Introduction
