@@ -16,36 +16,47 @@ By integrating real-time data synchronisation, automated content processing pipe
 
 ---
 
-# System Demonstration
-
-<h1 align="center">System Interface Preview</h1>
+<h1 align="center">System Demonstration</h1>
 
 <p align="center">
-  <img src="News_P1.png" width="850">
+  <img src="News_P1.png" width="900">
 </p>
 
 <p align="center">
-  <em>Figure 1. Initial user onboarding and preference acquisition interface.</em>
+  <em>
+  Figure 1. Initial onboarding interface introducing the NewsPulse ecosystem.
+  The system presents core platform capabilities and prepares users for
+  personalised news configuration.
+  </em>
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
-  <img src="News_P2.png" width="850">
-</p>
-
-<p align="center">
-  <em>Figure 2. Category selection framework used for adaptive content filtering.</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="News_P3.png" width="850">
+  <img src="News_P2.png" width="900">
 </p>
 
 <p align="center">
-  <em>Figure 3. Personalised news feed generated through user-centric content aggregation.</em>
+  <em>
+  Figure 2. User preference acquisition module. Demographic attributes and
+  category interests are collected to construct an adaptive content profile,
+  enabling personalised information delivery.
+  </em>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="News_P3.png" width="900">
+</p>
+
+<p align="center">
+  <em>
+  Figure 3. Dynamically personalised news dashboard displaying only relevant
+  categories selected during onboarding. Real-time content updates and
+  intelligent filtering reduce information overload while improving content
+  discoverability.
+  </em>
 </p>
 
 
